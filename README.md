@@ -2,6 +2,8 @@
 
 A production-ready full-stack implementation of the Lagunitas IPA product landing page.
 
+https://github.com/user-attachments/assets/998d51f0-e5e1-403f-b6bc-6418e625ae2b
+
 ## Architecture
 
 ```
